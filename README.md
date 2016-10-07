@@ -1,2 +1,2 @@
 # JSDraggableTableView
-make tableviewcell be draggable
+make tableviewcell be draggable in tableview
